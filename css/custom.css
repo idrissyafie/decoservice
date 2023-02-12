@@ -3,3 +3,21 @@
 -------------------------------------------------------------------*/
 
 /** ADD YOUR AWESOME CODES HERE **/
+
+p{
+    text-align: justify;
+}
+
+#weathericon {
+    background-repeat: no-repeat;
+    background-color: rgb(220, 220, 220);
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+  }
+
+  #location_id{
+    margin-bottom: 50px;
+  }

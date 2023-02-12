@@ -1403,6 +1403,14 @@ section .social_icons {
     transition: ease all 0.5s;
 }
 
+.right_blog_top2 {
+    float: right;
+    margin-right: 210px;
+    box-shadow: -35px 30px 0 0 #fff;
+    margin-top: 180px;
+    transition: ease all 0.5s;
+}
+
 .slide_arrow {
     width: 90px;
     float: left;
@@ -4725,7 +4733,7 @@ section .gray_font {
     line-height: 50px;
     color: #fff;
     font-weight: 500;
-    padding: 0 15px font-size: 14px;
+    padding: 0 15px; font-size: 14px;
     border-radius: 5px;
     position: relative;
 }
@@ -7478,7 +7486,7 @@ img[data-toggle="modal"] {
 }
 
 #default_theme.blog_detail.contact_page h3,
-#default_theme.blog_detail.contact_page p {}
+#default_theme.blog_detail.contact_page p{}
 
 .form_contact_main .field {
     width: 50%;
