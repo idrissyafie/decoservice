@@ -21,3 +21,42 @@ p{
   #location_id{
     margin-bottom: 50px;
   }
+
+  .decorate_blog_font {
+    color: #525151;
+    width: 185px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 20px auto 0;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.decorate_blog_img {
+  color: #525151;
+  text-align: center;
+  height: 50%;
+  width:50%;
+  display: flex;
+  justify-content: center;
+}
+.custom_col{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.custom_img{
+  height:300px;
+  width:200px;
+}
+
+.video{
+  border: none;
+}
